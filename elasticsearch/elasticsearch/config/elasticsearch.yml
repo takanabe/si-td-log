@@ -1,0 +1,2 @@
+network.host: 192.168.33.30 # to use ipv4
+http.port: 9200
